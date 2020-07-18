@@ -1,16 +1,37 @@
-### Hi there 👋
+# Kim In Seop
 
-<!--
-**opnay/opnay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web front-end developer. Sometimes develop for native applications.
 
-Here are some ideas to get you started:
+opnayn@gmail.com / Korea Gyeonggi-do / Windows, Elementary OS
+- Slack / VSCode / Github / Bitbucket / Jira / Gitlab / :ok_hand: possible any tools
+- AWS / Firebase
+- C / C++ / Javascript / ES2019 / Typescript / Java / Kotlin
+- Docker / Travis / Github Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Almost projects written in typescript
+## Desktop
+- [x] Electron
+
+## Web
+- [x] React / Vue
+- [x] Webpack / Rollup
+- [x] All of NPM packages :grin:
+
+## Back-end
+- [x] Spring
+- [x] Node.js / Deno
+- [x] Express / Socket.io
+- [x] GraphQL / RestAPI
+
+## Mobile
+- [x] Java / Kotlin
+- [x] React-native
+
+## Studying
+- [ ] QT
+- [ ] Vala
+- [ ] Go / Rust
+- [ ] Deno
+- [ ] Kubernetes
+- [ ] Swift
+- [ ] MongoDB
