@@ -1,33 +1,18 @@
-# Kim In Seop
+![Banner](./Banner.png)
 
-I'm a web front-end developer. Sometimes develop for native applications.
+opnayn@gmail.com / Korean / Windows, Elementary OS
 
-opnayn@gmail.com / Korea Gyeonggi-do / Windows, Elementary OS
-- Slack / VSCode / Github / Bitbucket / Jira / Gitlab / :ok_hand: possible any tools
-- AWS / Firebase
-- C / C++ / Javascript / ES2019 / Typescript / Java / Kotlin
-- Docker / Travis / Github Actions
+![Github stats](https://github-readme-stats.vercel.app/api?username=opnay&show_icons=true)
 
 > Almost projects written in typescript
-## Desktop
+## :heartpulse: I Like
 - [x] Electron
-
-## Web
-- [x] React / Vue
-- [x] Webpack / Rollup
-- [x] All of NPM packages :grin:
-
-## Back-end
-- [x] Spring
+- [x] React / Vue / Webpack / Rollup
 - [x] Node.js / Deno
-- [x] Express / Socket.io
-- [x] GraphQL / RestAPI
+- [x] Express / Socket.io / GraphQL / RestAPI
+- [x] React-native / Java / Kotlin
 
-## Mobile
-- [x] Java / Kotlin
-- [x] React-native
-
-## Studying
+## :book: I Busy To Studying...
 - [ ] QT
 - [ ] Vala
 - [ ] Go / Rust
