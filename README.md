@@ -1,4 +1,4 @@
-![Banner](./Banner.png)
+![Banner](https://github.com/opnay/opnay/raw/master/Banner.png)
 
 opnayn@gmail.com / Korean / Windows, Elementary OS
 
