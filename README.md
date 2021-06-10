@@ -12,7 +12,7 @@ opnayn@gmail.com / Korean / Windows, Elementary OS
 - [x] React-native / Java / Kotlin
 
 > Almost projects written in typescript
-## :book: I Busy To Studying...
+## :book: Do more practice
 - [ ] QT
 - [ ] Vala
 - [ ] Go / Rust
