@@ -10,7 +10,7 @@ opnayn@gmail.com / Korean
 - [x] React-native / Java / Kotlin
 
 ## 📈 My Github Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=opnay&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=opnay&show_icons=true&theme=github_dark)
 
 ## 👑 Github Trophy
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=opnay&theme=darkhub)
