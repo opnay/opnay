@@ -1,22 +1,16 @@
 ![Banner](https://github.com/opnay/opnay/raw/master/Banner.png)
 
-opnayn@gmail.com / Korean / Windows, Elementary OS
+opnayn@gmail.com / Korean
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=opnay&show_icons=true)
-
-## :heartpulse: I Like
-- [x] Electron
-- [x] React / Vue / Webpack / Rollup
-- [x] Node.js / Deno
+## :100: My Stacks
+- [x] Javascript / Typescript / ESNext
+- [x] Node.js / Deno / Bun
+- [x] React / React Native / Vue / Webpack / Rollup
 - [x] Express / Socket.io / GraphQL / RestAPI
 - [x] React-native / Java / Kotlin
 
-> Almost projects written in typescript
-## :book: Do more practice
-- [ ] QT
-- [ ] Vala
-- [ ] Go / Rust
-- [ ] Deno
-- [ ] Kubernetes
-- [ ] Swift
-- [ ] MongoDB
+## 📈 My Github Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=opnay&show_icons=true)
+
+## 👑 Github Trophy
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=opnay&theme=darkhub)
