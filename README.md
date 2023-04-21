@@ -3,11 +3,18 @@
 opnayn@gmail.com / Korean
 
 ## :100: My Stacks
-- [x] Javascript / Typescript / ESNext
+- [x] Typescript / ESNext
+- [x] Kotlin (JVM)
 - [x] Node.js / Deno / Bun
-- [x] React / React Native / Vue / Webpack / Rollup
-- [x] Express / Socket.io / GraphQL / RestAPI
-- [x] React-native / Java / Kotlin
+
+### Front-End
+- [x] React / React Native
+- [x] Next.js / Expo / Webpack / Rollup
+
+### Back-End
+- [x] Express / Nest.js
+- [x] TypeORM / Prisma
+- [x] Socket.io / GraphQL / RestAPI
 
 ## 📈 My Github Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=opnay&show_icons=true&theme=github_dark)
