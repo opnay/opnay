@@ -1,7 +1,5 @@
 ![Banner](https://github.com/opnay/opnay/raw/master/Banner.png)
 
-opnayn@gmail.com / Korean
-
 ## :100: My Stacks
 - [x] Typescript / ESNext
 - [x] Kotlin (JVM)
@@ -21,3 +19,5 @@ opnayn@gmail.com / Korean
 [![Github stats](https://github-readme-stats.vercel.app/api?locale=kr&username=opnay&show_icons=true&theme=ambient_gradient&border_radius=24&bg_color=30,4A1B1B,5F1837&border_color=fff&card_width=495&hide_title=true&include_all_commits=true&line_height=30)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Github Trophy](https://github-profile-trophy.vercel.app/?username=opnay&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fopnay&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
