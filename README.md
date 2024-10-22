@@ -1,5 +1,13 @@
 ![Banner](https://github.com/opnay/opnay/raw/master/Banner.png)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/opnay"
+    width="680"
+    height="320"
+  />
+</a>
+
 ## :100: My Stacks
 - [x] Typescript / ESNext
 - [x] Kotlin (JVM)
