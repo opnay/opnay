@@ -16,7 +16,7 @@
 ## 📈 Status
 [![Github Trophy](https://github-profile-trophy.vercel.app/?username=opnay&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=opnay&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/opnay"
   width="600"
